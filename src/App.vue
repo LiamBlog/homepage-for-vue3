@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="bgBox" v-motion :initial="{ opacity: 0, y: 25 }" :enter="{ opacity: 1, y: 0 }" :duration="1000">
-      <img src="www.mlhh.cn/img/bj7.png" alt="">
+      <img src="https://i.p-i.vip/43/20240915-66e6e5abe3e97.webp" alt="">
     </div>
 
     <div class="bgGrid">
