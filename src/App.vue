@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By Shian | ©2025
+      By Shian | ©2025 | <a href="https://icp.gov.moe/?keyword=20240301" target="_blank">萌ICP备20240301号</a>
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
